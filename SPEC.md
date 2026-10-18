@@ -8,6 +8,14 @@ Companion documents: [Architecture.md](Architecture.md) for the system around
 the agent, [CONFIG.md](CONFIG.md) for what was actually built and what the two
 runs returned.
 
+**The pricing tool this agent serves** is a separate project, linked here as
+context because this document refers to it throughout:
+[פירוק עבודות חשמל](https://claude.ai/artifact/TqGXzMoQuGzhZVGwMufvXr). An
+electrician types a job in free Hebrew — "two power points in a plasterboard
+wall in the living room, and an air-conditioner point" — and the tool breaks it
+into lines with materials, quantities and prices. Its catalogue of 22 job types
+and its reference price ranges are both relevant to §2a.
+
 ---
 
 ## 0. Corrections to this document
